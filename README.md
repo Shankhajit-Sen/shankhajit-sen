@@ -6,9 +6,9 @@ pursuing <i>B.Tech</i> in <i>Information Technology</i><b>(I.T.)</b> from KIIT, 
 
 ## 1. 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MERN STACK.**
+- 🔭 I’m currently working and developing on **MERN STACK.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
