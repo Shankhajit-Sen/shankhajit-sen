@@ -74,9 +74,9 @@ pursuing <i>B.Tech</i> in <i>Information Technology</i><b>(I.T.)</b> from KIIT, 
 
 </p>
 
-<!-- ## 5. ❤ Views and Followers
+## 5. ❤ Views and Followers
 
 <a href="https://github.com/shankhajit-sen/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shankhajit-sen">
 </a>
-<a href="https://github.com/shankhajit-sen?tab=followers"><img src="https://img.shields.io/github/followers/shankhajit-sen?label=Followers&style=social" alt="GitHub Badge"></a> -->
+<a href="https://github.com/shankhajit-sen?tab=followers"><img src="https://img.shields.io/github/followers/shankhajit-sen?label=Followers&style=social" alt="GitHub Badge"></a>
